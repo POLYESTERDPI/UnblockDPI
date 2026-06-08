@@ -1,6 +1,7 @@
 # Unblock DPI — Deep Packet Inspection
 
 Download Link: https://github.com/Novulon/UnblockDPI/releases/download/UnBlockDPI-1.0/UnBlockDPI.1.0.rar
+# --Windows only--
 
 Unblock DPI is a tool designed to instantly unblock restricted websites and programs. It was created specifically to unblock Roblox for users facing regional or network blocks.
 
