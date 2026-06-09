@@ -12,6 +12,9 @@ https://github.com/bol-van/zapret
 If your antivirus blocks the installation, you may need to temporarily disable it.
 Once installed, the antivirus will not delete anything since then it won't detect a threat. Think of it as judging a book by its cover.
 
+If you have any questions or need help setting it up:
+discord: 1z11
+
 Download links:
 
 https://github.com/Novulon/UnblockDPI/releases/download/UnblockDPI-1.0/UnBlockDPI.1.0.rar
@@ -35,6 +38,3 @@ Runs Silently: Configured to launch invisibly on Windows startup. It does its jo
 
 Warning:
 This is not VPN, it doesn't route your data through external servers, it will not hide your physical location or change your IP address.
-
-If you have any feedback or need help setting it up:
-discord: 1z11
